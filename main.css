@@ -1,0 +1,54 @@
+<html>
+body{margin: 0px}
+
+.site_banner{
+	border-style: solid;
+	border-color: black;
+	border-width: 8px 4px 1px 4px;
+	padding: 20px;
+	text-align: center;
+}
+
+h3{
+	font-family: Basier sans-serif; 
+	font: bold 14px;
+	color: #de2f23;
+	letter-spacing: 1px;
+}
+.article{
+	max-width: 900px;
+	margin-left: 5%;
+	margin-right: 5%;
+}
+.story_header{
+	font-family: Basier sans-serif;
+	font: 46px;
+	margin-bottom: 0px;
+}
+.byline{
+	font: bold;
+}
+.story_copy{
+	font-family: Pensum sans-serif;
+}
+img{
+	width: 100$;
+}
+.photo_caption{
+	color: gray;
+	font: 14px;
+	margin-bottom: 0px;
+}
+.footer{
+	font-family: Basier sans-serif;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+.footer_info{
+	color: gray;
+	font: 14px;
+}
+.href{
+	color: black;
+}
+</html>
